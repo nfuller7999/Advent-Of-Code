@@ -1,2 +1,2 @@
 # Advent-Of-Code-2021
-Store of all my advent of code challenges
+All my advent of code challenge soultions
